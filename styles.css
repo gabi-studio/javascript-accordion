@@ -1,0 +1,4 @@
+/*used to hide content -- only scction linksappear */
+.accordion-section {
+    display: none;
+}
